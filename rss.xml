@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 07 Oct 2021 20:43:06 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Useful Websites for Pentesters]]></title>
+            <guid>0e54ddd45f3f470889c2af6e293a0cc6</guid>
+            <pubDate>Fri, 24 Sep 2021 23:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="useful-websites-for-pentesters">USEFUL WEBSITES FOR PENTESTERS</h1>
+<p><strong>Exploits Database</strong>
+<a title="http://www.exploit-db.com/" href="http://www.exploit-db.com/">http://www.exploit-db.com/</a>
+<a title="http://www.intelligentexploit.com" href="http://www.intelligentexploit.com">http://www.intelligentexploit.com</a>
+<a title="http://www.shodanhq.com/" href="http://www.shodanhq.com/">http://www.shodanhq.com/</a>
+<a title="http://packetstormsecurity.com/" href="http://packetstormsecurity.com/">http://packetstormsecurity.com/</a></p>
+<p><strong>Vulnerabilities Database</strong>
+<a title="https://cve.mitre.org/cve/" href="https://cve.mitre.org/cve/">https://cve.mitre.org/cve/</a>
+<a title="http://www.cvedetails.com/" href="http://www.cvedetails.com/">http://www.cvedetails.com/</a>
+<a title="https://nvd.nist.gov/" href="https://nvd.nist.gov/">https://nvd.nist.gov/</a>
+<a title="http://osvdb.org/" href="http://osvdb.org/">http://osvdb.org/</a>
+<a title="https://www.kb.cert.org/vuls/" href="https://www.kb.cert.org/vuls/">https://www.kb.cert.org/vuls/</a>
+<a title="https://secunia.com/community/advisories/search/" href="https://secunia.com/community/advisories/search/">https://secunia.com/community/advisories/search/</a>
+<a title="http://www.securityfocus.com/bid" href="http://www.securityfocus.com/bid">http://www.securityfocus.com/bid</a>
+<a title="http://lwn.net/Vulnerabilities/" href="http://lwn.net/Vulnerabilities/">http://lwn.net/Vulnerabilities/</a>
+<a title="http://denimgroup.com/resources-threadfix/" href="http://denimgroup.com/resources-threadfix/">http://denimgroup.com/resources-threadfix/</a>
+<a title="http://www.vulnerability-lab.com" href="http://www.vulnerability-lab.com">http://www.vulnerability-lab.com</a>
+<a title="http://www.secdocs.org/" href="http://www.secdocs.org/">http://www.secdocs.org/</a></p>
+<p><strong>Hacking Tutorials</strong>
+<a title="https://www.offensive-security.com/" href="https://www.offensive-security.com/">https://www.offensive-security.com/</a>
+<a title="http://www.kalitutorials.net/2013/08/kali-linux.html" href="http://www.kalitutorials.net/2013/08/kali-linux.html">http://www.kalitutorials.net/2013/08/kali-linux.html</a>
+<a title="https://www.youtube.com/user/DEFCONConference" href="https://www.youtube.com/user/DEFCONConference">https://www.youtube.com/user/DEFCONConference</a>
+<a title="https://www.youtube.com/user/Hak5Darren" href="https://www.youtube.com/user/Hak5Darren">https://www.youtube.com/user/Hak5Darren</a>
+<a title="https://www.youtube.com/user/sansinstitute" href="https://www.youtube.com/user/sansinstitute">https://www.youtube.com/user/sansinstitute</a>
+<a title="https://en.wikibooks.org/wiki/Metasploit/VideoTutorials" href="https://en.wikibooks.org/wiki/Metasploit/VideoTutorials">https://en.wikibooks.org/wiki/Metasploit/VideoTutorials</a>
+<a title="http://www.hacking-tutorial.com/" href="http://www.hacking-tutorial.com/">http://www.hacking-tutorial.com/</a>
+<a title="http://breakthesecurity.cysecurity.org/" href="http://breakthesecurity.cysecurity.org/">http://breakthesecurity.cysecurity.org/</a>
+<a title="http://www.securitytube.net/" href="http://www.securitytube.net/">http://www.securitytube.net/</a>
+<a title="http://www.ehacking.net/" href="http://www.ehacking.net/">http://www.ehacking.net/</a>
+<a title="https://vimeo.com/channels/fullscopesecurity" href="https://vimeo.com/channels/fullscopesecurity">https://vimeo.com/channels/fullscopesecurity</a>
+<a title="http://www.spacerogue.net/wordpress/" href="http://www.spacerogue.net/wordpress/">http://www.spacerogue.net/wordpress/</a></p>
+<p><strong>Virus Scan</strong>
+<a title="https://www.virustotal.com/nl/" href="https://www.virustotal.com/nl/">https://www.virustotal.com/nl/</a>
+<a title="http://anubis.iseclab.org/" href="http://anubis.iseclab.org/">http://anubis.iseclab.org/</a>
+<a title="http://virusscan.jotti.org/it" href="http://virusscan.jotti.org/it">http://virusscan.jotti.org/it</a>
+–Not distribute to AV–
+<a title="http://v2.scan.majyx.net/?page=home" href="http://v2.scan.majyx.net/?page=home">http://v2.scan.majyx.net/?page=home</a>
+<a title="http://fuckingscan.me/" href="http://fuckingscan.me/">http://fuckingscan.me/</a>
+<a title="https://anonscanner.com/" href="https://anonscanner.com/">https://anonscanner.com/</a>
+<a title="http://nodistribute.com/" href="http://nodistribute.com/">http://nodistribute.com/</a>
+<a title="http://www.file2scan.net/" href="http://www.file2scan.net/">http://www.file2scan.net/</a></p>
+<p><strong>Tools Download</strong>
+<a title="http://tools.kali.org/tools-listing" href="http://tools.kali.org/tools-listing">http://tools.kali.org/tools-listing</a>
+<a title="http://insecure.org/" href="http://insecure.org/">http://insecure.org/</a>
+<a title="http://www.hackersonlineclub.com/hacking-tools" href="http://www.hackersonlineclub.com/hacking-tools">http://www.hackersonlineclub.com/hacking-tools</a>
+<a title="https://www.concise-courses.com/hacking-tools/" href="https://www.concise-courses.com/hacking-tools/">https://www.concise-courses.com/hacking-tools/</a>
+<a title="http://www.darknet.org.uk/category/hacking-tools/" href="http://www.darknet.org.uk/category/hacking-tools/">http://www.darknet.org.uk/category/hacking-tools/</a>
+<a title="http://www.kitploit.com/" href="http://www.kitploit.com/">http://www.kitploit.com/</a>
+<a title="http://www.toolswatch.org/" href="http://www.toolswatch.org/">http://www.toolswatch.org/</a>
+<a title="http://www.blackarch.org/tools.html" href="http://www.blackarch.org/tools.html">http://www.blackarch.org/tools.html</a>
+<a title="https://pentest-tools.com/reconnaissance/google-hacking" href="https://pentest-tools.com/reconnaissance/google-hacking">https://pentest-tools.com/reconnaissance/google-hacking</a>
+<a title="https://gexos.github.io/Hacking-Tools-Repository/" href="https://gexos.github.io/Hacking-Tools-Repository/">https://gexos.github.io/Hacking-Tools-Repository/</a>
+<a title="http://www.romhacking.net/utilities/" href="http://www.romhacking.net/utilities/">http://www.romhacking.net/utilities/</a></p>
+<p><strong>Network Online Tools</strong>
+<a title="http://www.yougetsignal.com/" href="http://www.yougetsignal.com/">http://www.yougetsignal.com/</a>
+<a title="http://www.dnswatch.info/" href="http://www.dnswatch.info/">http://www.dnswatch.info/</a>
+<a title="http://www.nirsoft.net/countryip/" href="http://www.nirsoft.net/countryip/">http://www.nirsoft.net/countryip/</a>
+<a title="http://www.tcpiputils.com/" href="http://www.tcpiputils.com/">http://www.tcpiputils.com/</a>
+<a title="http://www.coffer.com/mac_find/" href="http://www.coffer.com/mac_find/">http://www.coffer.com/mac_find/</a>
+<a title="http://bgp.he.net/" href="http://bgp.he.net/">http://bgp.he.net/</a>
+<a title="http://www.sockets.com/services.htm" href="http://www.sockets.com/services.htm">http://www.sockets.com/services.htm</a>
+<a title="http://services.ce3c.be/ciprg/" href="http://services.ce3c.be/ciprg/">http://services.ce3c.be/ciprg/</a></p>
+<p><strong>IP Lookup</strong>
+<a title="http://ip-api.com/#" href="http://ip-api.com/#">http://ip-api.com/#</a>
+<a title="http://www.my-ip-neighbors.com/" href="http://www.my-ip-neighbors.com/">http://www.my-ip-neighbors.com/</a>
+<a title="http://www.whatismyip.com/" href="http://www.whatismyip.com/">http://www.whatismyip.com/</a>
+<a title="http://www.ip2location.com/demo" href="http://www.ip2location.com/demo">http://www.ip2location.com/demo</a>
+<a title="http://freegeoip.net/static/index.html" href="http://freegeoip.net/static/index.html">http://freegeoip.net/static/index.html</a>
+<a title="http://whatstheirip.com" href="http://whatstheirip.com">http://whatstheirip.com</a>
+<a title="http://ipaddress.com" href="http://ipaddress.com">http://ipaddress.com</a>
+<a title="http://www.ip-adress.com/ipaddresstolocation/" href="http://www.ip-adress.com/ipaddresstolocation/">http://www.ip-adress.com/ipaddresstolocation/</a></p>
+<p><strong>Encrypt / Decrypt</strong>
+<a title="http://crypo.in.ua/tools/" href="http://crypo.in.ua/tools/">http://crypo.in.ua/tools/</a>
+<a title="http://www.tools4noobs.com/online_tools/decrypt/" href="http://www.tools4noobs.com/online_tools/decrypt/">http://www.tools4noobs.com/online_tools/decrypt/</a>
+<a title="http://codebeautify.org/encrypt-decrypt" href="http://codebeautify.org/encrypt-decrypt">http://codebeautify.org/encrypt-decrypt</a>
+<a title="http://textmechanic.com/Encryption-Generator.html" href="http://textmechanic.com/Encryption-Generator.html">http://textmechanic.com/Encryption-Generator.html</a>
+<a title="http://www.yellowpipe.com/yis/tools/encrypter/" href="http://www.yellowpipe.com/yis/tools/encrypter/">http://www.yellowpipe.com/yis/tools/encrypter/</a></p>
+<p><strong>Online Hash Crackers</strong>
+<a title="http://www.hashkiller.co.uk/" href="http://www.hashkiller.co.uk/">http://www.hashkiller.co.uk/</a>
+<a title="http://www.md5online.org/" href="http://www.md5online.org/">http://www.md5online.org/</a>
+<a title="http://www.cmd5.org/" href="http://www.cmd5.org/">http://www.cmd5.org/</a>
+<a title="http://www.md5crack.com/" href="http://www.md5crack.com/">http://www.md5crack.com/</a>
+<a title="http://www.netmd5crack.com/cracker/" href="http://www.netmd5crack.com/cracker/">http://www.netmd5crack.com/cracker/</a>
+<a title="http://md5decryption.com/" href="http://md5decryption.com/">http://md5decryption.com/</a>
+<a title="http://md5.rednoize.com/" href="http://md5.rednoize.com/">http://md5.rednoize.com/</a>
+<a title="http://www.md5this.com/index.php" href="http://www.md5this.com/index.php">http://www.md5this.com/index.php</a>
+<a title="http://www.tydal.nu/article/md5-crack/" href="http://www.tydal.nu/article/md5-crack/">http://www.tydal.nu/article/md5-crack/</a>
+<a title="http://passcracking.com/" href="http://passcracking.com/">http://passcracking.com/</a>
+<a title="https://hdb.insidepro.com/en" href="https://hdb.insidepro.com/en">https://hdb.insidepro.com/en</a>
+<a title="https://crackstation.net/" href="https://crackstation.net/">https://crackstation.net/</a>
+<a title="http://www.cloudcracker.net/" href="http://www.cloudcracker.net/">http://www.cloudcracker.net/</a>
+<a title="https://isc.sans.edu/tools/reversehash.html" href="https://isc.sans.edu/tools/reversehash.html">https://isc.sans.edu/tools/reversehash.html</a>
+<a title="http://www.onlinehashcrack.com/" href="http://www.onlinehashcrack.com/">http://www.onlinehashcrack.com/</a> [<span><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">]</mo><mi>h</mi><mi>t</mi><mi>t</mi><mi>p</mi><mo>:</mo><mi mathvariant="normal">/</mi><mi mathvariant="normal">/</mi><mi>h</mi><mi>a</mi><mi>s</mi><mi>h</mi><mi>c</mi><mi>r</mi><mi>a</mi><mi>c</mi><mi>k</mi><mi mathvariant="normal">.</mi><mi>i</mi><mi>n</mi><mi mathvariant="normal">/</mi><mi>e</mi><mi>n</mi><mo stretchy="false">[</mo></mrow><annotation encoding="application/x-tex">]
+http://hashcrack.in/en [</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mclose">]</span><span class="mord mathnormal">h</span><span class="mord mathnormal">ttp</span><span class="mspace" style="margin-right:0.2777777777777778em"></span><span class="mrel">:</span><span class="mspace" style="margin-right:0.2777777777777778em"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em"></span><span class="mord">//</span><span class="mord mathnormal">ha</span><span class="mord mathnormal">s</span><span class="mord mathnormal">h</span><span class="mord mathnormal" style="margin-right:0.02778em">cr</span><span class="mord mathnormal">a</span><span class="mord mathnormal">c</span><span class="mord mathnormal" style="margin-right:0.03148em">k</span><span class="mord">.</span><span class="mord mathnormal">in</span><span class="mord">/</span><span class="mord mathnormal">e</span><span class="mord mathnormal">n</span><span class="mopen">[</span></span></span></span></span>]</p>
+<p><strong>File Upload</strong>
+<a title="https://mega.co.nz/" href="https://mega.co.nz/">https://mega.co.nz/</a>
+<a title="https://www.mediafire.com/" href="https://www.mediafire.com/">https://www.mediafire.com/</a>
+<a title="https://infotomb.com/m/welcome" href="https://infotomb.com/m/welcome">https://infotomb.com/m/welcome</a>
+<a title="http://sharesend.com/" href="http://sharesend.com/">http://sharesend.com/</a>
+<a title="http://www.wss-coding.com/upload" href="http://www.wss-coding.com/upload">http://www.wss-coding.com/upload</a>
+<a title="http://zippyshare.com/" href="http://zippyshare.com/">http://zippyshare.com/</a>
+<a title="http://filetolink.com/" href="http://filetolink.com/">http://filetolink.com/</a>
+<a title="http://ge.tt/" href="http://ge.tt/">http://ge.tt/</a>
+<a title="http://largedocument.com/" href="http://largedocument.com/">http://largedocument.com/</a>
+<a title="http://rghost.net/" href="http://rghost.net/">http://rghost.net/</a>
+<a title="http://dox.abv.bg/files/share" href="http://dox.abv.bg/files/share">http://dox.abv.bg/files/share</a>
+<a title="http://secureupload.eu/" href="http://secureupload.eu/">http://secureupload.eu/</a></p>
+<p><strong>Anonymous Test</strong>
+<a title="https://ipleak.net/" href="https://ipleak.net/">https://ipleak.net/</a>
+<a title="https://www.dnsleaktest.com/" href="https://www.dnsleaktest.com/">https://www.dnsleaktest.com/</a>
+<a title="https://diafygi.github.io/webrtc-ips/" href="https://diafygi.github.io/webrtc-ips/">https://diafygi.github.io/webrtc-ips/</a></p>
+<p><strong>Torcheck</strong>
+<a title="http://5deqglhxcoy3gbx6.onion" href="http://5deqglhxcoy3gbx6.onion">http://5deqglhxcoy3gbx6.onion</a> - Xenobite
+<a title="http://tmkloc6vhxos3nde.onion" href="http://tmkloc6vhxos3nde.onion">http://tmkloc6vhxos3nde.onion</a></p>
+<p><strong>SMS</strong>
+<a title="http://receive-sms-now.com/" href="http://receive-sms-now.com/">http://receive-sms-now.com/</a>
+<a title="http://www.receive-sms-online.info/" href="http://www.receive-sms-online.info/">http://www.receive-sms-online.info/</a>
+<a title="http://www.receivesmsonline.net/" href="http://www.receivesmsonline.net/">http://www.receivesmsonline.net/</a></p>
+<p><strong>Fake Identity</strong>
+<a title="http://www.fakenamegenerator.com/" href="http://www.fakenamegenerator.com/">http://www.fakenamegenerator.com/</a>
+<a title="https://fakena.me/" href="https://fakena.me/">https://fakena.me/</a>
+<a title="http://names.igopaygo.com/people/fake_person" href="http://names.igopaygo.com/people/fake_person">http://names.igopaygo.com/people/fake_person</a></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How to Advance In Your Career as a Penetration Tester]]></title>
+            <guid>c6e795a78e8d4aeeab497b290b1684d5</guid>
+            <pubDate>Sun, 20 Jan 2019 19:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[<p><a title="https://www.infosecinstitute.com/career-profiles/penetration-tester/" href="https://www.infosecinstitute.com/career-profiles/penetration-tester/">Penetration testing</a> is essential for maintaining security in modern enterprises, with some organizations hiring staff specifically for this purpose as part of an ongoing security-hardening process. Penetration testing is effective because it allows your security team to intelligently target parts of your system without being too general. This has added benefits: it saves the company time and money as the tests can be carried out in a controlled and modular fashion.</p>
+<p>But how do you, as a security professional, advance your own career as a penetration tester? How would you even get started towards such a goal? Perhaps you are already working as a penetration tester, but are looking for ways to advance your career prospects and adding to your skills? We’ll try to cover some of the most important information that relates to finding your way towards getting started, or getting further, as a penetration tester.</p>
+<h2 id="why-pentesting">Why Pentesting?</h2>
+<p>If you are a person that enjoys coming up with unique and sophisticated fixes to problems, then pentesting could be just the job role that you are looking for. It’s a blend of cybersecurity, system administration, application development, programming and more. Perhaps you have an interest in all of the above fields, but you lack natural ability. What then?</p>
+<p>There are many related fields that remain in the realm of information security but are not so technically demanding in the sense of being hands-on out in the field. A certification such as the CISSP (Certified Information Systems Security Professional) can help to move your information security career into a managerial or governance role. To find out the current requirements for the CISSP, take a look<a title="https://resources.infosecinstitute.com/cissp-official-study-guide-8th-edition-whats-new/" href="https://resources.infosecinstitute.com/cissp-official-study-guide-8th-edition-whats-new/">here</a>.</p>
+<p>Pentesters have excellent earning potential, with PayScale showing that the average salary for a qualified pentester is just over $80,000 USD per year. Other factors such as bonuses, profit sharing and commissions offer even more value for such professionals.</p>
+<h2 id="what-career-path-should-you-take">What Career Path Should You Take?</h2>
+<p>Due to the specialized nature of IT security and penetration testing in general, there are some specific steps that you should definitely follow if you are going to pursue a career as a pentester. Most pentesters have a college degree in computer sciences or a qualification that is recognized as being compliant with the Center for Academic Excellence.</p>
+<p>In addition to this, it is necessary for people considering a career in penetration testing to have certifications that offer both practical, hands-on experience, with a strong focus on<a title="https://www.infosecinstitute.com/courses/ethical-hacking-boot-camp/" href="https://www.infosecinstitute.com/courses/ethical-hacking-boot-camp/">ethical hacking</a>. Whichever certifications you decide to take, you must ensure that they are DOD 8570-compliant. This means that it is a trusted certification that the DOD see as being good enough for their own employees, which carries stringent requirements.</p>
+<h2 id="getting-started">Getting Started</h2>
+<p>Pentesting is basically the same as hacking systems, but with permission from management and the company’s knowledge of the activity. Crucially, though, the activity that is carried out is not harmful and can be reversed if need be after the testing has been completed. The reason that it is done in this way is so that if there are any weaknesses or vulnerabilities in the security of the system, then the pentester will find them before anybody else does.</p>
+<p>Getting started with hacking can be tricky if you are looking to land a role with a company, especially if you do not have relevant real-world experience. Luckily, there are many different ways that you can learn about and practice different hacking skills.</p>
+<h2 id="ctf-challenges">CTF Challenges</h2>
+<p>CTF, or Capture the Flag challenges, are a fun way for people that are interested in learning to hack to get involved with basic hands-on challenges. A CTF challenge can be either hosted remotely so that you connect to a website and start solving challenges, or it can be a tournament that is hosted at a central location, where teams of people compete under one roof. Each challenge reveals a solution, also known as a flag, and is valued with a different point score for each one. At the end of the challenge, the team or individual with the most points wins. The challenges start off easy so that beginners can participate and start to learn the basics, but they get progressively more difficult; eventually, only those with advanced programming, cryptography and application-development skills are able to solve challenges.</p>
+<h2 id="web-training-resources">Web Training Resources</h2>
+<p>Web application hacking is another skill that pentesters need to develop, as web attacks are very common. There are many different resources on the Internet that offer poorly written websites for you to hack legally, so that you can learn the basics about what vulnerabilities make a website or web application open to attack and how you could protect such sites from attacks.</p>
+<h2 id="internships-and-volunteering">Internships and Volunteering</h2>
+<p>If you have the necessary skills that would form a decent foundation for pentesting, such as programming, scripting, development and cybersecurity, then volunteering your time could be a good way for you to gain valuable experience. Internships can also help to give you real world skills when it comes to cybersecurity jobs such as pentesting, even if the role that you take on isn’t explicitly as a pentester. Don’t be afraid to work your way up towards the role of pentester, especially if you lack the experience that is required in the beginning.</p>
+<h2 id="advancing-your-pentesting-career">Advancing Your Pentesting Career</h2>
+<p>One of the most effective ways of increasing your earning potential and <a title="https://resources.infosecinstitute.com/penetration-testing-professional-development-training-roadmap/" href="https://resources.infosecinstitute.com/penetration-testing-professional-development-training-roadmap/">advancing your career</a> as a pentester is to prove your ethical hacking abilities with certifications. EC-Council is an institution that offers a comprehensive career track for individuals that want to prove their hacking knowledge while making themselves highly desirable to employers.</p>
+<p>EC-Council offers internationally recognized certifications that directly relate to penetration testing and ethical hacking. These are:</p>
+<ul>
+<li>Certified Network Defender</li>
+<li>Certified Ethical Hacker</li>
+<li>Certified Ethical Hacker (Practical)</li>
+<li>EC-Council Certified Security Analyst</li>
+<li>EC-Council Certified Security Analyst (Practical)</li>
+<li>Licensed Penetration Tester</li>
+</ul>
+<p>The CEH and ECSA certifications now offer practical certifications that help candidates to prove to future employers that they possess not only theoretical penetration-testing knowledge but the ability to practically apply this knowledge in real-world scenarios.</p>
+<p>These practical exams are grueling tests of knowledge. The CEH Practical gives candidates only six hours to complete all of the simulations, and the ECSA takes up to 12 hours to complete. The exam environment consists of an entire virtual corporate network with real applications and network configurations for candidates to pentest.</p>
+<p>By pursuing these certifications, candidates show themselves to be highly proficient at systematically testing computer networks and systems against both known and unknown security vulnerabilities. These abilities make pentesters a valuable asset to the organization and are excellent team members to have on board.</p>
+<p>Having more certifications from other providers can also help to boost your desirability in the job market, as employers generally like to see a mixture of both experience and qualifications.</p>
+<p>Other popular pentesting certifications include:</p>
+<ul>
+<li>GIAC: GIAC Certified Penetration Tester (GPEN)</li>
+<li>Mile2: Certified Penetration Testing Consultant (CPTC)</li>
+<li>Mile2: Certified Penetration Testing Engineer (CPTE)</li>
+<li>Offensive Security: Offensive Security Certified Professional (OSCP)</li>
+</ul>
+<p>As you can see, there are a lot of different certification options out there for you to pursue. Each one has its own positives and negatives, depending on which direction you wish to take your pentesting career.</p>
+<h2 id="your-it-security-career-path">Your IT Security Career Path</h2>
+<p>If you have been working in the information security field for a long time as a pentester, you might be wondering how you could expand out into another role or specialize in another field. Even if you feel like you might have chosen the wrong specialization to focus on, there are still plenty of options out there for pentesters.</p>
+<p>This is because being a pentester involves a lot more than simply performing practical, hands-on tasks every day. There are plenty of compliance and administrative tasks that need to be maintained, such as documentation, reporting and client/product owner correspondence. This means that attention to detail, accountability and professionalism need to be at the forefront of a pentester’s work functions, not just an intimate understanding of computer systems.</p>
+<p>Pentesters are able to move in many different directions, based on the individual’s interests and skills.</p>
+<p>Some examples are:</p>
+<ul>
+<li>Information Technology Manager</li>
+<li>Developer/Programmer</li>
+<li>Consultant</li>
+</ul>
+<p>Pentesters are also in a unique situation in many ways; the skills that they learn can be applied to many different industries and work environments, as IT systems share many commonalities. This opens up opportunities for pentesters to pursue freelance work, open consultancies and start their own security businesses.</p>
+<p>Mobile Device Penetration Testing</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Pentesting is a growing field, with more companies finding value in employing full-time specialists that can perform vital security tests on internal systems. Finding individuals with the right balance between experience and qualifications can be challenging, which means that if you have the right skills and the desire to continue learning, you could land yourself a dream job as a penetration tester. Hopefully some of the information that we have shown you today will be useful to you as you continue your career in this exciting line of work!</p>
+<h3 id="sources">Sources</h3>
+<p><a title="http://www.baselinemag.com/careers/the-growing-need-for-cyber-security-professionals.html" href="http://www.baselinemag.com/careers/the-growing-need-for-cyber-security-professionals.html">The Growing Need for Cyber-Security Professionals</a>, Baseline</p>
+<p><a title="https://www.payscale.com/research/US/Job=Penetration_Tester/Salary" href="https://www.payscale.com/research/US/Job=Penetration_Tester/Salary">Penetration Tester Salary</a>, PayScale</p>
+<ul>
+<li></li>
+<li></li>
+<li>
+<p><a title="#" href="#">inShare.</a></p>
+</li>
+<li></li>
+<li></li>
+</ul>
+<p><img src=":/1653c59fd374440ebdeea961048e2cca" alt="229811c63ef513e166d78d1c101c66dd.jpg" /></p>
+<p>Author</p>
+<h5 id="graeme-messina"><a title="https://resources.infosecinstitute.com/author/graememessinainfosec/" href="https://resources.infosecinstitute.com/author/graememessinainfosec/">Graeme Messina</a></h5>
+<p>Graeme is an IT professional with a special interest in computer forensics and computer security. When not building networks and researching the latest developments in network security, he can be found writing technical articles and blog posts at InfoSec Resources and elsewhere.</p>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
