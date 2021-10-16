@@ -4,9 +4,85 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 05:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 05:35:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[How to Search Twitter by Location]]></title>
+            <guid>04548c59d56f4f3bb3b628f01ac12b6b</guid>
+            <pubDate>Sat, 16 Oct 2021 04:02:20 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Twitter is where some of the biggest influencers from around the world share what’s on their mind. But in this flurry of worldwide messages, how do you find tweets from a specific location?</p>
+<p>This in-depth guide will show you how to search Twitter by location to find tweets from any particular place. Before we start, you should know how to set up an account and enable your location. Then, we’ll show you how to use both normal and advanced searches—on both desktop and mobile.</p>
+<h2 id="get-an-account-and-enable-location">Get an Account and Enable Location</h2>
+<p>You can <a title="https://www.makeuseof.com/tag/yes-can-use-twitter-without-account-heres/" href="https://www.makeuseof.com/tag/yes-can-use-twitter-without-account-heres/">use Twitter without an account</a>, and that extends to search and advanced search. But searching by location is better if you have an account and have enabled location information.</p>
+<p>To enable Location on your smartphone:</p>
+<ol>
+<li>Launch the Twitter app.</li>
+<li>Tap your <strong>profile picture</strong> in the top-left corner.</li>
+<li>Scroll down and tap <strong>Settings and privacy</strong> in the bottom left.</li>
+<li>Scroll down to the <strong>Data sharing and off-Twitter activity</strong> section and tap <strong>Location information</strong>.</li>
+<li>Tap Precise location, then tap the <strong>toggle bar</strong> on the next window to turn it green.</li>
+</ol>
+<p>To enable Location on desktop devices:</p>
+<ol>
+<li>Log on to Twitter on your laptop or computer.</li>
+<li>Click on <strong>More</strong> to the left of the <strong>Home</strong> page**.**</li>
+<li>Now, click on <strong>Settings and privacy</strong>—and then <strong>Privacy and safety.</strong></li>
+<li>Scroll down to <strong>Data sharing and off-Twitter activity</strong> and click on <strong>Location information</strong>.</li>
+<li>Click on <strong>Add location information to your tweets</strong>, then check the box to turn location on.</li>
+</ol>
+<h2 id="how-to-search-tweets-from-people-near-you">How to Search Tweets From People Near You</h2>
+<p>The easiest place-based search is to find tweets sent by people who are near your location. For this feature, even if you don’t have location enabled in settings, Twitter uses your device’s IP address (which includes the current or closest major city) to figure out where you are right now.</p>
+<p>To search Twitter for tweets close to you on your smartphone:</p>
+<ol>
+<li>Launch the Twitter app on your device.</li>
+<li>Tap the <strong>magnifying glass</strong> icon at the bottom of the screen.</li>
+<li>Enter your search query in the <strong>search bar</strong> at the top of the screen.</li>
+<li>Tap the <strong>settings icon</strong> to the right of the <strong>search bar.</strong></li>
+<li>In the <strong>Location</strong> section, tap <strong>Near you</strong>.</li>
+<li>You will see a pop-up window asking whether you want Twitter to use your precise location. Tap <strong>Next</strong> to allow Twitter to use your exact location.</li>
+</ol>
+<p>To search Twitter for tweets close to you on Desktop:</p>
+<ol>
+<li>Go to <a title="https://www.twitter.com/" href="https://www.twitter.com/">twitter.com</a>.</li>
+<li>In the <strong>Search</strong> <strong>bar</strong> in the top right-hand corner, type what you want to search, then press Enter.</li>
+<li>Go to <strong>Search filters</strong> in the top right and check the <strong>circle</strong> to the right of <strong>Near you</strong>, under <strong>Location</strong>.</li>
+</ol>
+<p>That’s all there is to it. Twitter will now show you search results from tweets sent from somewhere close to you.</p>
+<p>You can sort these tweets based on the top tweets, latest, famous people, and tweets containing photos or videos.</p>
+<p>You can also choose multiple filters, such as only showing tweets from people you follow, or the language the tweets are written in.</p>
+<h2 id="how-to-search-twitter-by-any-location">How to Search Twitter by Any Location</h2>
+<p>The easiest way to state which area to search is by creating an advanced search, which is one of the Twitter tips even pros don’t know about.</p>
+<p>Here’s how to use it to find tweets or people from a certain location:</p>
+<ol>
+<li>Follow the steps in the “How to Search Tweets From People Near You” section for Desktop above to start searching for what you’re looking for.</li>
+<li>Click on <strong>Advanced search</strong> under the <strong>Search filters</strong> section.</li>
+<li>Put in the words you want to search in the <strong>field boxes</strong> under <strong>Words</strong>, <strong>People</strong>, and <strong>Dates</strong>. The boxes are self-explanatory.</li>
+<li>Once you’re done, click <strong>Search</strong>.</li>
+</ol>
+<p>You will now get the search results closest to that particular place. Please note that you can only use the Advanced Search feature on Desktop.</p>
+<h2 id="use-twitter-search-operators-for-more-accuracy">Use Twitter Search Operators for More Accuracy</h2>
+<p>Much like any good search engine, Twitter has a few search operators that make it better. It’s one of the secret ways to find Twitter search results that matter to you.</p>
+<p>For location-based searches, you need to know the two operators <strong>near:</strong> and <strong>within:</strong> and how to use them.</p>
+<p>The <strong>near:</strong> operator is followed by the name of the location, which can be an area, city, state, country, postal code, or geocode. Out of all these, the most accurate target is a geocode.</p>
+<p>A geocode is a location’s GPS coordinates. You can find the latitude and longitude coordinates of any place with a quick Google search, or by tracking the place on Google Maps.</p>
+<p>The <strong>within:</strong> operator is followed by distance. By default, Twitter will use 15 miles, but if you want to reduce or expand that, add that in miles.</p>
+<p>So for example, if you want to find tweets about pizza in Chicago with a five-mile limit, here’s what the search term would look like:</p>
+<p><strong>"Pizza near:Chicago within:5mi"</strong></p>
+<p>It’s that simple. If you ask us, you can skip the “within” operator most times because it sometimes gives you nonsensical results or takes away something you need to know.</p>
+<p>Both the search operators <strong>near:</strong> and <strong>within:</strong> are used in the regular Twitter search, not advanced search, and hence work on Twitter’s mobile and desktop apps.</p>
+<h2 id="dont-use-third-party-twitter-apps">Don’t Use Third-Party Twitter Apps</h2>
+<p>By using the above tips and tricks, you should be able to get tweets from any location you desire. And it’s best if you use these on the official Twitter app or website. While there are a few apps you can use for deep searches on Twitter, and new ones surface every now and then, we don’t recommend using third-party apps.</p>
+<p>This is because Twitter has a history of crippling third-party apps through different means. In fact, advanced search is missing on all apps, which is just one of the features you lose with a third-party Twitter client. Instead, stick to the official app, and use the tricks we’ve mentioned above to search for Twitter results by location.</p>
+<p><a title="https://www.makeuseof.com/tag/12-ways-to-use-free-tools-to-enhance-your-twitter-reputation/" href="https://www.makeuseof.com/tag/12-ways-to-use-free-tools-to-enhance-your-twitter-reputation/"><strong>12 Solid Tips to Enhance Your Twitter Reputation</strong><br class="jop-noMdConv" />Follow these steps and you’ll quickly start to notice an improvement in the profile of your Twitter account.<br class="jop-noMdConv" />Read Next</a><strong>About The Author</strong></p>
+<p><strong>Aya Masango (74 Articles Published)</strong></p>
+<p>Aya is a freelance writer with a passion for brands, marketing and life in general. When she isn’t typing away, she’s keeping up with the latest news, pondering on the essence of life, and thinking about new business opportunities. Most productive when working in bed.</p>
+<p><a title="https://www.makeuseof.com/author/aya-masango/" href="https://www.makeuseof.com/author/aya-masango/">More From Aya Masango</a></p>
+<h4 id="subscribe-to-our-newsletter">Subscribe to our newsletter</h4>
+<p>Join our newsletter for tech tips, reviews, free ebooks, and exclusive deals!</p>
+<p>Click here to subscribe</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Useful Websites for Pentesters]]></title>
             <guid>0e54ddd45f3f470889c2af6e293a0cc6</guid>
